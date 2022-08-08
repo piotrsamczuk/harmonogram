@@ -1,0 +1,6 @@
+﻿  Harmonogram.cpp
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\PwCpp\Project1\Project1\Harmonogram.cpp(81,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Time.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\PwCpp\Project1\x64\Debug\Project1.exe
